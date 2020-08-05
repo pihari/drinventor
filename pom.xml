@@ -10,8 +10,8 @@
 
 	<properties>
 		<jdk.version>1.8</jdk.version>
-		<builddir>/home/ronzano/Eclipse_WS/lib/target</builddir>
-		<project.build.directory>/home/ronzano/Eclipse_WS/dri_library/target</project.build.directory>
+		<builddir>D:\Libraries\Documents\Uni\Informatik\Master\Masterarbeit\drinventor</builddir>
+		<project.build.directory>D:\Libraries\Documents\Uni\Informatik\Master\Masterarbeit\driBuild</project.build.directory>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
